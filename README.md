@@ -10,6 +10,7 @@
 | Amos Wenger "fasterthanlime" | [amos.me](https://amos.me/) | [@fasterthanlime](https://twitter.com/fasterthanlime) | itch app, butler, wharf (itch.io developer tools) | yes |
 | Gustav Palmqvist | [Gustav's twitter](https://twitter.com/Guraan294) | [@Guraan294](https://twitter.com/Guraan294) | Europa Universalis 4, Crusader Kings 2, Hearts of Iron 4... | yes |
 | Na'Tosha Bard | [natoshabard.com](http://natoshabard.com/) | [@natosha_bard](https://twitter.com/natosha_bard) | Unity editor | yes |
+| Josh "Cheeseness" | [cheesetalks.net](https://cheesetalks.net) | [@ValiantCheese](https://twitter.com/ValiantCheese) | Day of Tentacle Remastered | yes |
 | Sam Lantinga "Slouken" | [Slouken's github](https://github.com/slouken) | [@slouken](https://twitter.com/slouken) | Loki Software, SDL, World of Warcraft internal Linux prototype, Source engine, Team Fortress 2 (other Valve games?), MAME4ALL and Kodi for Steam Link | ? |
 | Timothee Besset "TTimo" | [ttimo.typepad.com](http://ttimo.typepad.com/) | [@TTimo](https://twitter.com/TTimo) | Doom series, Quake series, Wolfenstein series | ? |
 | Leszek Godlewski | [inequation.org](http://inequation.org/) | [@TheIneQuation](https://twitter.com/TheIneQuation) | Deadfall Adventures, Painkiller Hell & Damnation | no |
