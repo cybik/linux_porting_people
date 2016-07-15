@@ -1,4 +1,6 @@
-# The great list of Linux games porting people and companies
+# The great list of Linux game tech people and companies
+
+This list features mostly porting people, but also developers responsible for tools related to the Linux gaming. Some of them are freelancers, while some are hired full-time by their studios.
 
 | Name | Website | Twitter | Known for | Active? |
 | --- | --- | --- | --- | --- |
