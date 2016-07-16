@@ -4,18 +4,19 @@ This list features mostly porting people, but also developers responsible for to
 
 | Name | Website | Twitter | Known for | Active? |
 | --- | --- | --- | --- | --- |
-| Ryan C. Gordon "icculus" | [icculus.org](http://icculus.org/) | [@icculus](https://twitter.com/icculus) | Loki Software, MojoSetup, SDL, many Humble Bundle ports, Dungeons of Dredmor, Goat Simulator, LIMBO (new port), Braid (old port), Killing Floor, Super Meat Boy, Sanctum 2... | yes |
-| Ethan Lee "flibitijibibo" | [flibitijibibo.com](http://www.flibitijibibo.com/) | [@flibitijibibo](https://twitter.com/flibitijibibo) | FNA, Rogue Legacy, Super Hexagon, FEZ, Transistor, Gnomoria, Towerfall: Ascension, Dust: An Elysian Tail... | yes |
-| Edward Rudd "urkle" | [outoforder.cc](http://outoforder.cc/) | [@outoforder_cc](https://twitter.com/outoforder_cc) | Many Humble Bundle ports, Torchlight series, Amnesia series, Penumbra series, Legend of Grimrock, Democracy 3, The Cave... | yes |
-| Aaron Melcher | [knockoutgames.co](http://knockoutgames.co) | [@aaron_melcher](https://twitter.com/aaron_melcher) | Shadow Warrior (2013), SOMA, Xenonauts, Sunless Sea, Darkest Dungeon, Hyper Light Drifter, Braid (new port), Outland... | yes |
-| Jonas Kulla "Ancurio" | [Ancurio's github](https://github.com/Ancurio/) | [@Ancurio](https://twitter.com/Ancurio) | mkxp, To The Moon, A Bird Story, The Last Word, Echoes Of Aetheria... | yes |
-| Amos Wenger "fasterthanlime" | [amos.me](https://amos.me/) | [@fasterthanlime](https://twitter.com/fasterthanlime) | itch app, butler, wharf (itch.io developer tools) | yes |
-| Gustav Palmqvist | [Gustav's twitter](https://twitter.com/Guraan294) | [@Guraan294](https://twitter.com/Guraan294) | Europa Universalis 4, Crusader Kings 2, Hearts of Iron 4... | yes |
-| Na'Tosha Bard | [natoshabard.com](http://natoshabard.com/) | [@natosha_bard](https://twitter.com/natosha_bard) | Unity editor | yes |
-| Josh "Cheeseness" | [cheesetalks.net](https://cheesetalks.net) | [@ValiantCheese](https://twitter.com/ValiantCheese) | Day of Tentacle Remastered | yes |
-| Sam Lantinga "Slouken" | [Slouken's github](https://github.com/slouken) | [@slouken](https://twitter.com/slouken) | Loki Software, SDL, World of Warcraft internal Linux prototype, Source engine, Team Fortress 2 (other Valve games?), MAME4ALL and Kodi for Steam Link | ? |
+| Ryan C. Gordon "icculus" | [icculus.org](http://icculus.org/) | [@icculus](https://twitter.com/icculus) | Working for Loki Software (no longer existing), MojoSetup, SDL, many Humble Bundle ports, Dungeons of Dredmor, Goat Simulator, LIMBO (new port), Braid (old port), Killing Floor, Super Meat Boy, Sanctum 2, Hammerfight, Aquaria, Cogs, Psychonauts, Shank, Frozen Synapse, Lugaru... | yes |
+| Ethan Lee "flibitijibibo" | [flibitijibibo.com](http://www.flibitijibibo.com/) | [@flibitijibibo](https://twitter.com/flibitijibibo) | freelance, FNA, Rogue Legacy, Super Hexagon, FEZ, Transistor, Gnomoria, Towerfall: Ascension, Dust: An Elysian Tail... | yes |
+| Edward Rudd "urkle" | [outoforder.cc](http://outoforder.cc/) | [@outoforder_cc](https://twitter.com/outoforder_cc) | Working for Humble Bundle, Torchlight series, Amnesia series, Penumbra series, Legend of Grimrock, Democracy 3, The Cave... | yes |
+| Aaron Melcher | [knockoutgames.co](http://knockoutgames.co) | [@aaron_melcher](https://twitter.com/aaron_melcher) | freelance, Shadow Warrior (2013), SOMA, Xenonauts, Sunless Sea, Darkest Dungeon, Hyper Light Drifter, Braid (new port), Outland... | yes |
+| Jonas Kulla "Ancurio" | [Ancurio's github](https://github.com/Ancurio/) | [@Ancurio](https://twitter.com/Ancurio) | freelance, mkxp, To The Moon, A Bird Story, The Last Word, Echoes Of Aetheria... | yes |
+| Amos Wenger "fasterthanlime" | [amos.me](https://amos.me/) | [@fasterthanlime](https://twitter.com/fasterthanlime) | Working for itch.io, itch app, butler, wharf (itch.io developer tools) | yes |
+| Gustav Palmqvist | [Gustav's twitter](https://twitter.com/Guraan294) | [@Guraan294](https://twitter.com/Guraan294) | Working for Paradox Development Studios, Europa Universalis 4, Crusader Kings 2, Hearts of Iron 4... | yes |
+| Na'Tosha Bard | [natoshabard.com](http://natoshabard.com/) | [@natosha_bard](https://twitter.com/natosha_bard) | Working for Unity Technologies, Unity editor | yes |
+| Josh "Cheeseness" | [cheesetalks.net](https://cheesetalks.net) | [@ValiantCheese](https://twitter.com/ValiantCheese) | freelancer, Day of Tentacle Remastered | yes |
+| Oliver Franzke | [p1xelcoder.com](http://www.p1xelcoder.com/) | [@p1xelcoder](https://twitter.com/p1xelcoder) | Working for Double Fine Productions, Broken Age | yes |
+| Sam Lantinga "Slouken" | [Slouken's github](https://github.com/slouken) | [@slouken](https://twitter.com/slouken) | Working for Valve, working for Loki Software (no longer existing), SDL, World of Warcraft internal Linux prototype, Source engine, Team Fortress 2 (other Valve games?), MAME4ALL and Kodi for Steam Link | ? |
 | Timothee Besset "TTimo" | [ttimo.typepad.com](http://ttimo.typepad.com/) | [@TTimo](https://twitter.com/TTimo) | Doom series, Quake series, Wolfenstein series | ? |
-| Leszek Godlewski | [inequation.org](http://inequation.org/) | [@TheIneQuation](https://twitter.com/TheIneQuation) | Deadfall Adventures, Painkiller Hell & Damnation | no |
+| Leszek Godlewski | [inequation.org](http://inequation.org/) | [@TheIneQuation](https://twitter.com/TheIneQuation) | Working for Flying Wild Hog, Deadfall Adventures, Painkiller Hell & Damnation | no |
 | Dave D. Taylor | [davetaylor.name](http://www.davetaylor.name/) | [@_ddt__](https://twitter.com/_ddt__) | Doom, Quake, Abuse | no |
 
 Also, a great shoutout to the Linux porting companies, including:
