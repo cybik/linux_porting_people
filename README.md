@@ -14,6 +14,8 @@ This list features mostly porting people, but also developers responsible for to
 | Na'Tosha Bard | [natoshabard.com](http://natoshabard.com/) | [@natosha_bard](https://twitter.com/natosha_bard) | Working for Unity Technologies, Unity editor | yes |
 | Josh "Cheeseness" | [cheesetalks.net](https://cheesetalks.net) | [@ValiantCheese](https://twitter.com/ValiantCheese) | freelancer, Day of Tentacle Remastered | yes |
 | Oliver Franzke | [p1xelcoder.com](http://www.p1xelcoder.com/) | [@p1xelcoder](https://twitter.com/p1xelcoder) | Working for Double Fine Productions, Broken Age | yes |
+| Tim Ambrogi | [finalformgames.com](http://www.finalformgames.com/) | [@westquote](https://twitter.com/westquote) | Part of indie studio Final Form Games (Jamestown), Spirits | ? |
+| David Gow | [davidgow.net](https://davidgow.net/) | [@DyslexicDeity](https://twitter.com/DyslexicDeity) | Multiwinia | ? |
 | Sam Lantinga "Slouken" | [Slouken's github](https://github.com/slouken) | [@slouken](https://twitter.com/slouken) | Working for Valve, working for Loki Software (in the past), SDL, World of Warcraft internal Linux prototype, Source engine, Team Fortress 2 (other Valve games?), MAME4ALL and Kodi for Steam Link | ? |
 | Timothee Besset "TTimo" | [ttimo.typepad.com](http://ttimo.typepad.com/) | [@TTimo](https://twitter.com/TTimo) | Doom series, Quake series, Wolfenstein series | ? |
 | Leszek Godlewski | [inequation.org](http://inequation.org/) | [@TheIneQuation](https://twitter.com/TheIneQuation) | Working for Flying Wild Hog, Deadfall Adventures, Painkiller Hell & Damnation | no |
@@ -28,6 +30,8 @@ Also, a great shoutout to the Linux porting companies, including:
 | Virtual Programming | [vpltd.com](http://vpltd.com/) | [@virtualprog](https://twitter.com/virtualprog) | Bioshock: Infinite, Witcher 2, SpecOps: The Line, Dirt: Showdown, Saints Row series, Stronghold 3... | yes |
 | CodeWeavers | [codeweavers.com](http://codeweavers.com) | [@CodeWeavers](https://twitter.com/CodeWeavers) | System Shock 2, Dear Esther (old port), LIMBO (old port) | yes |
 | Abstraction Games | [abstractiongames.com](http://abstractiongames.com) | [@AbstractionGame](https://twitter.com/AbstractionGame) | The Boy And His Blob, Danganronpa, The Chaos Engine, Gunpoint, Hotline Miami series, Awesomenauts (?) | yes |
+| Code Mystics | [codemystics.com](http://www.codemystics.com) | [@CodeMystics](https://twitter.com/CodeMystics) | Little Inferno, Rocketbirds: Hardboiled Chicken, The Bridge, Atari Vault | yes |
+| Alternative Games | [alternativegames.net](http://www.alternativegames.net/) | - | Trine, Shadowgrounds series, Shank 2, Don't Starve, Mark of the Ninja, Guacamelee!, Eets Munchies, Torchlight 2... | ? |
 | Runesoft | [rune-soft.com](http://rune-soft.com) | [@RunesoftGmbH](https://twitter.com/RunesoftGmbH) | Airline Tycoon Deluxe, Ankh series, Cultures: Northland | ? |
 | Hyperion Entertainment | [hyperion-entertainment.biz](http://www.hyperion-entertainment.biz/) | - | SiN Gold, Gorky 17, Shogo: Mobile Armor Division | ? |
 | Linux Game Publishing | [linuxgamepublishing.com](http://www.linuxgamepublishing.com/) | - | Majesty: Gold Edition, Sacred: Gold Edition, Ballistics... | no |
