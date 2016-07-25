@@ -13,7 +13,7 @@ This list features mostly porting people, but also developers responsible for to
 | Gustav Palmqvist | [Gustav's twitter](https://twitter.com/Guraan294) | [@Guraan294](https://twitter.com/Guraan294) | Working for Paradox Development Studios, Europa Universalis 4, Crusader Kings 2, Hearts of Iron 4... | yes |
 | Levi Bard | [Levi's Google+](https://plus.google.com/104339689434081533648/) | - | Working for Unity Technologies, Unity3d engine | yes |
 | Na'Tosha Bard | [natoshabard.com](http://natoshabard.com/) | [@natosha_bard](https://twitter.com/natosha_bard) | Working for Unity Technologies, Unity editor | yes |
-| Josh "Cheeseness" | [cheesetalks.net](https://cheesetalks.net) | [@ValiantCheese](https://twitter.com/ValiantCheese) | freelancer, Day of Tentacle Remastered | yes |
+| Josh Bush "Cheeseness" | [cheesetalks.net](https://cheesetalks.net) | [@ValiantCheese](https://twitter.com/ValiantCheese) | freelancer, Day of Tentacle Remastered | yes |
 | Oliver Franzke | [p1xelcoder.com](http://www.p1xelcoder.com/) | [@p1xelcoder](https://twitter.com/p1xelcoder) | Working for Double Fine Productions, Broken Age | yes |
 | Tim Ambrogi | [finalformgames.com](http://www.finalformgames.com/) | [@westquote](https://twitter.com/westquote) | Part of indie studio Final Form Games (Jamestown), Spirits | ? |
 | David Gow | [davidgow.net](https://davidgow.net/) | [@DyslexicDeity](https://twitter.com/DyslexicDeity) | Multiwinia | ? |
