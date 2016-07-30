@@ -14,7 +14,7 @@ This list features mostly porting people, but also developers responsible for to
 | Levi Bard | [Levi's Google+](https://plus.google.com/104339689434081533648/) | - | Working for Unity Technologies, Unity3d engine | yes |
 | Na'Tosha Bard | [natoshabard.com](http://natoshabard.com/) | [@natosha_bard](https://twitter.com/natosha_bard) | Working for Unity Technologies, Unity3d engine, Unity editor | yes |
 | Josh Bush "Cheeseness" | [cheesetalks.net](https://cheesetalks.net) | [@ValiantCheese](https://twitter.com/ValiantCheese) | freelancer, Day of Tentacle Remastered | yes |
-| Renaud Lepage "Cybik" | [google.com/+RenaudLepage](https://plus.google.com/+RenaudLepage) | [@cybik](https://twitter.com/cybik) | freelancer, Skullgirls, Indivisible | yes |
+| Renaud Lepage "Cybik" | [Cybik's Google+](https://plus.google.com/+RenaudLepage) | [@cybik](https://twitter.com/cybik) | freelancer, Skullgirls, Indivisible | yes |
 | Oliver Franzke | [p1xelcoder.com](http://www.p1xelcoder.com/) | [@p1xelcoder](https://twitter.com/p1xelcoder) | Working for Double Fine Productions, Broken Age | yes |
 | Tim Ambrogi | [finalformgames.com](http://www.finalformgames.com/) | [@westquote](https://twitter.com/westquote) | Part of indie studio Final Form Games (Jamestown), Spirits | ? |
 | David Gow | [davidgow.net](https://davidgow.net/) | [@DyslexicDeity](https://twitter.com/DyslexicDeity) | Multiwinia | ? |
